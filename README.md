@@ -1,4 +1,5 @@
 # Python Data Science Handbook
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/pathcl/pythondatasciencehandbook)
 
 This repository contains the entire [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do), in the form of (free!) Jupyter notebooks.
 
